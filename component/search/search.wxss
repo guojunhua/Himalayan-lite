@@ -1,0 +1,20 @@
+.search {
+    width: 90%;
+    height: 50rpx;
+    margin: 0rpx auto;
+    padding: 10rpx;
+    border-radius: 10rpx;
+    font-size: 24rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+    margin-bottom: 20rpx;
+}
+
+        .search-item {
+            width: 95%;
+            height: 100%;
+            color: #aaa;
+            line-height: 50rpx;
+        }
